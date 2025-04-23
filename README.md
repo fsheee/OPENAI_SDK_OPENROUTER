@@ -12,8 +12,8 @@ OpenRouter supports the latest **DeepSeek V3 0324** and over **50 other models**
 
 If you are using a **free model variant** (model ID ending in `:free`), the following limits apply:
 
-- ⏱️ **20 requests per minute**
-- 📅 **200 requests per day**
+- **20 requests per minute**
+- **200 requests per day**
 
 🔍 **See the full list of models**: [https://openrouter.ai/models](https://openrouter.ai/models)
 
